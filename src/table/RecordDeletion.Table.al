@@ -1,6 +1,6 @@
 table 50000 "Record Deletion"
 {
-    DataClassification = ToBeClassified;
+    DataClassification = CustomerContent;
 
     fields
     {
